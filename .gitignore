@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.m
+*.aux
+*.log
+HW1.pdf
+*.gz
+*.tex
+fig.pdf
+
+
 # C extensions
 *.so
 
